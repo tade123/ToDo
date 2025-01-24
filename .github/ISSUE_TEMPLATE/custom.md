@@ -1,7 +1,7 @@
 ---
 name: ToDo template
 about: See .github/ISSUE_TEMPLATE/custom.md
-title:  "[DATE]: [FEATURE NAME]"
+title:  "【FEATURE NAME】: （DATE〆）"
 labels: 'ToDo'
 projects: 'kaitas/ToDo'
 assignees: 'kaitas'
